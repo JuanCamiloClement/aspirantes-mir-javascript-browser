@@ -1,0 +1,15 @@
+body {
+    font-family: arial;
+    color: blue;
+    margin: 5px;
+    padding: 5px;
+}
+
+input,button,p {
+    margin: 5px;
+    padding: 5px;
+}
+
+label {
+    margin-left: 5px;
+}
